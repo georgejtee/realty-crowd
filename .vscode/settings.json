@@ -1,0 +1,5 @@
+{
+    "github.allowUnsafeSSL": true,
+    "gitlab.removeSourceBranch": true,
+    "github.autoPublish": true
+}
